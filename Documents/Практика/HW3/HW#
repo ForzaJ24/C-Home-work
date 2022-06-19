@@ -1,1 +1,2 @@
 // принимает на вход число, определяет день недели и выходной ли это день
+Console.WriteLine("Hello! Enter number of day :")
